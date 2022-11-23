@@ -1,4 +1,4 @@
-# `🧿 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝 🔮`
+# `🧿 Hirusha 🔮`
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
 <a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -20,7 +20,7 @@
 
 ### `—◉ 🤖 BOTS OFICIALES 🤖`
 
-<a href="https://api.whatsapp.com/send/?phone=5219993404349&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=94755681801&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
  > NO SPAMEAR COMANDOS
 
@@ -41,11 +41,11 @@
 [![Run on Repl.it](https://repl.it/badge/github/BrunoSobrino/TheMystic-Bot-MD)](https://repl.it/github/BrunoSobrino/TheMystic-Bot-MD)
 
 ### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrunoSobrino/TheMystic-Bot-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hirusha21/MD)
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/Hirusha21/MD/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/Hirusha21/MD/blob/master/config.js)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:

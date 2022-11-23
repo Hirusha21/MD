@@ -27,7 +27,7 @@ let texto = `
 > npm update
 > npm install 
 > npm start` 
-let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: texto, contextInfo: { externalAdReply: { title: 'ᴛʜᴇ ᴍʏsᴛɪᴄ - ʙᴏᴛ', body: null, thumbnail: imagen1, sourceUrl: 'https://github.com/BrunoSobrino/TheMystic-Bot-MD' }, mentionedJid: [m.sender] }}}, { quoted: m })
+let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: texto, contextInfo: { externalAdReply: { title: 'ᴛʜᴇ ᴍʏsᴛɪᴄ - ʙᴏᴛ', body: null, thumbnail: imagen1, sourceUrl: 'https://github.com/Hirusha21/MD' }, mentionedJid: [m.sender] }}}, { quoted: m })
 conn.relayMessage(m.chat, prep.message, { messageId: prep.key.id, mentions: [m.sender] })  
 }
 handler.command = /^(instalarbot)/i
